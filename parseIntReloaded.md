@@ -1,4 +1,5 @@
-parseInt() Reloaded
+# parseInt() Reloaded
+
 Convert a string into an integer. The strings simply represent the numbers in words.
 
 Examples:
